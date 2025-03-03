@@ -25,9 +25,9 @@ A self-taught `Full-Stack Mobile Developer`.
   - `Sprint Boot (Java/Kotlin)` • `⭐️⭐️⭐️` `⭐️⭐️`
 
 ### Projects
- -•Convolutional Networks For Biomedical Image Segmentation
- -•Amazon S3 and Transcribe Integration
- -•Hospital Management and Maintenance using DBMS
+ -  Convolutional Networks For Biomedical Image Segmentation
+ -  Amazon S3 and Transcribe Integration
+ -  Hospital Management and Maintenance using DBMS
 
 
 
