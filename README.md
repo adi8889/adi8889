@@ -25,14 +25,14 @@ A self-taught `Full-Stack Mobile Developer`.
   - `Sprint Boot (Java/Kotlin)` • `⭐️⭐️⭐️` `⭐️⭐️`
 
 ### Projects
- •Convolutional Networks For Biomedical Image Segmentation
- •Amazon S3 and Transcribe Integration
- •Hospital Management and Maintenance using DBMS
+ -•Convolutional Networks For Biomedical Image Segmentation
+ -•Amazon S3 and Transcribe Integration
+ -•Hospital Management and Maintenance using DBMS
 
 
 
 ---
 
-If not engineering software products, I see reels on Instagram ([`@kabirstack`](https://instagram.com/k))
+If not engineering software products, I see reels on Instagram 
 
 
